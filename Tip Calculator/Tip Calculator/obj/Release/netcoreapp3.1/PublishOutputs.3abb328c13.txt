@@ -1,0 +1,5 @@
+C:\Users\ptwra\Desktop\C# .net application\Tip Calculator.exe
+C:\Users\ptwra\Desktop\C# .net application\Tip Calculator.dll
+C:\Users\ptwra\Desktop\C# .net application\Tip Calculator.deps.json
+C:\Users\ptwra\Desktop\C# .net application\Tip Calculator.runtimeconfig.json
+C:\Users\ptwra\Desktop\C# .net application\Tip Calculator.pdb

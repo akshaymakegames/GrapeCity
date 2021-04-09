@@ -1,0 +1,15 @@
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\bin\Debug\netcoreapp3.1\Tip Calculator.exe
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\bin\Debug\netcoreapp3.1\Tip Calculator.deps.json
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\bin\Debug\netcoreapp3.1\Tip Calculator.runtimeconfig.json
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\bin\Debug\netcoreapp3.1\Tip Calculator.runtimeconfig.dev.json
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\bin\Debug\netcoreapp3.1\Tip Calculator.dll
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\bin\Debug\netcoreapp3.1\Tip Calculator.pdb
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\obj\Debug\netcoreapp3.1\Tip Calculator.csprojAssemblyReference.cache
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\obj\Debug\netcoreapp3.1\Tip_Calculator.Form1.resources
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\obj\Debug\netcoreapp3.1\Tip Calculator.csproj.GenerateResource.cache
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\obj\Debug\netcoreapp3.1\Tip Calculator.AssemblyInfoInputs.cache
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\obj\Debug\netcoreapp3.1\Tip Calculator.AssemblyInfo.cs
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\obj\Debug\netcoreapp3.1\Tip Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\obj\Debug\netcoreapp3.1\Tip Calculator.dll
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\obj\Debug\netcoreapp3.1\Tip Calculator.pdb
+C:\Users\ptwra\source\repos\Tip Calculator\Tip Calculator\obj\Debug\netcoreapp3.1\Tip Calculator.genruntimeconfig.cache
