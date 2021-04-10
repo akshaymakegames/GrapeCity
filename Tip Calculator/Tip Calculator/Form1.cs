@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace Tip_Calculator
 {
-    public partial class Form1 : Form
+    public partial class TipCalculatorForm : Form
     {
         float billAmount = 500;
 
@@ -11,7 +11,7 @@ namespace Tip_Calculator
 
         int noOfPeople = 2;
 
-        public Form1()
+        public TipCalculatorForm()
         {
             InitializeComponent();
             

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ptwra\\source\\repos\\Tip Calculator\\Tip Calculator\\Tip Calculator.csproj": {}
+    "C:\\Users\\ptwra\\Documents\\GitHub\\GrapeCity\\Tip Calculator\\Tip Calculator\\Tip Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ptwra\\source\\repos\\Tip Calculator\\Tip Calculator\\Tip Calculator.csproj": {
+    "C:\\Users\\ptwra\\Documents\\GitHub\\GrapeCity\\Tip Calculator\\Tip Calculator\\Tip Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ptwra\\source\\repos\\Tip Calculator\\Tip Calculator\\Tip Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\ptwra\\Documents\\GitHub\\GrapeCity\\Tip Calculator\\Tip Calculator\\Tip Calculator.csproj",
         "projectName": "Tip Calculator",
-        "projectPath": "C:\\Users\\ptwra\\source\\repos\\Tip Calculator\\Tip Calculator\\Tip Calculator.csproj",
+        "projectPath": "C:\\Users\\ptwra\\Documents\\GitHub\\GrapeCity\\Tip Calculator\\Tip Calculator\\Tip Calculator.csproj",
         "packagesPath": "C:\\Users\\ptwra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ptwra\\source\\repos\\Tip Calculator\\Tip Calculator\\obj\\",
+        "outputPath": "C:\\Users\\ptwra\\Documents\\GitHub\\GrapeCity\\Tip Calculator\\Tip Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ptwra\\AppData\\Roaming\\NuGet\\NuGet.Config",
