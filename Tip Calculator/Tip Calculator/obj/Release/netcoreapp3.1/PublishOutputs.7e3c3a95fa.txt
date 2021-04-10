@@ -1,0 +1,5 @@
+C:\Users\ptwra\Documents\GitHub\GrapeCity\Tip Calculator App V1.1\Tip Calculator.exe
+C:\Users\ptwra\Documents\GitHub\GrapeCity\Tip Calculator App V1.1\Tip Calculator.dll
+C:\Users\ptwra\Documents\GitHub\GrapeCity\Tip Calculator App V1.1\Tip Calculator.deps.json
+C:\Users\ptwra\Documents\GitHub\GrapeCity\Tip Calculator App V1.1\Tip Calculator.runtimeconfig.json
+C:\Users\ptwra\Documents\GitHub\GrapeCity\Tip Calculator App V1.1\Tip Calculator.pdb
