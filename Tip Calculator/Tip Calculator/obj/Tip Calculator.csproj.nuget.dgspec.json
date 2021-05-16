@@ -13,14 +13,19 @@
         "packagesPath": "C:\\Users\\ptwra\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ptwra\\Documents\\GitHub\\GrapeCity\\Tip Calculator\\Tip Calculator\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\ComponentOne\\WinForms Edition\\bin\\v5\\"
+        ],
         "configFilePaths": [
           "C:\\Users\\ptwra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ComponentOne.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\ComponentOne\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },

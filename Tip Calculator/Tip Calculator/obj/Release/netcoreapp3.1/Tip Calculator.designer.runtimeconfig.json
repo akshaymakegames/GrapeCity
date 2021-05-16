@@ -7,7 +7,8 @@
     },
     "additionalProbingPaths": [
       "C:\\Users\\ptwra\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\ptwra\\.nuget\\packages"
+      "C:\\Users\\ptwra\\.nuget\\packages",
+      "C:\\Program Files (x86)\\ComponentOne\\WinForms Edition\\bin\\v5"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
